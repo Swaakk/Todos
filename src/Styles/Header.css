@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 40px;
+    width: 100%;
+    height: 120px;
+    background: rgb(26, 25, 25);
+}
+.header .list a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+    
+}

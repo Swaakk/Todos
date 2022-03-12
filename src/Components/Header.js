@@ -3,8 +3,13 @@ import "../Styles/Header.css"
 
 function Header() {
   return (
-    <div>
-        
+    <div className='header'>
+        <div className='list'>
+           <a href="">Home</a>
+           <a href="">About</a>
+           <a href="">Contact</a>
+           <a href="">Your Todo's</a>
+        </div>
     </div>
   )
 }
